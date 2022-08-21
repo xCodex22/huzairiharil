@@ -1,0 +1,134 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+  color: #40514E
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 500%;
+  color: #293462;
+  line-height: 3;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #1363DF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #0096FF;
+}
+
+hr {
+  width: 10%;
+  border-style: dotted none none none;
+  border-width: 8px;
+  color: #607EAA;
+  margin: 100px auto;
+}
+
+.stupro {
+  font-size: 25px;
+}
+.top_container {
+  background-color: #0096FF;
+  position: relative;
+  padding-top: 100px;
+}
+
+a {
+  color: #1C3879;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.penguin {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.bike {
+  width:25%;
+  float: right;
+  margin-right: 30px;
+}
+
+.student {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position:absolute;
+  left: 250px;
+  bottom:300px;
+}
+
+.top-cloud {
+  position:absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+.bottom-container {
+  background-color: #0096FF;
+  padding: 50px 0 20px;
+}
+
+.contact-message {
+  margin: 40px auto;
+  width: 40%;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.copyright {
+  color: black;
+  font-size: 0.75rem;
+  padding: 10px 0;
+}
